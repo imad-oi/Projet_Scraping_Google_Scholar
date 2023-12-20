@@ -1,0 +1,17 @@
+Les Propositions pour la Régression :
+
+1. Nombre de publications
+2. Total des citations
+3. I10_Index
+4. H_Index
+
+Les Propositions pour l'ACP :
+
+1. Nombre de publications
+2. Total des citations
+3. H_Index
+4. Année d'expérience (- On calculer l'année d'expérience en fonction des dates de publication.)
+
+Les Propositions pour l'ANOVA :
+
+le Total des citations, groupé par année d'expérience (0-10, 10-20, ...)
