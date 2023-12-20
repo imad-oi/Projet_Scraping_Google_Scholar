@@ -5,13 +5,27 @@ Les Propositions pour la Régression :
 3. I10_Index
 4. H_Index
 
+   Objectif :
+
+      - Éxaminer la corrélation entre l'index h (nombre maximum d'articles avec au moins h citations) et d'autres variables, afin de mesurer l'influence académique d'un chercheur.
+      
 Les Propositions pour l'ACP :
 
 1. Nombre de publications
 2. Total des citations
 3. H_Index
-4. Année d'expérience (- On calculer l'année d'expérience en fonction des dates de publication.)
+4. Année d'expérience (L'année d'expérience est calculé à partir de première et dérnière année des citations.)
+  
+   Objectif :
+     
+     - Découvrir des schémas ou des associations entre les chercheurs en termes de citations reçues
+     - Identifier des tendances ou des regroupements parmi les chercheurs en fonction du nombre de publications.
+     - Étudier la distribution des chercheurs en fonction de leur index h et identifier des tendances.
 
 Les Propositions pour l'ANOVA :
 
 le Total des citations, groupé par année d'expérience (0-10, 10-20, ...)
+   
+   Objectif :
+      
+     - Déterminer s'il existe des différences significatives dans le total des citations entre différents groupes de chercheurs, classés selon leur expérience.
